@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Rule", "Business R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w3 Classes", "w3 Classes\w3 Classes.csproj", "{DC61D637-FCC8-4D09-904A-761BC4AF91CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "Assignment\Assignment.csproj", "{8CD2C4E9-3E51-4F2E-A876-BC600EB8E715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foreach", "foreach\foreach.csproj", "{08F9BFEA-4A54-4485-AB8F-B025506C9165}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD2C4E9-3E51-4F2E-A876-BC600EB8E715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD2C4E9-3E51-4F2E-A876-BC600EB8E715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD2C4E9-3E51-4F2E-A876-BC600EB8E715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD2C4E9-3E51-4F2E-A876-BC600EB8E715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F9BFEA-4A54-4485-AB8F-B025506C9165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F9BFEA-4A54-4485-AB8F-B025506C9165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F9BFEA-4A54-4485-AB8F-B025506C9165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F9BFEA-4A54-4485-AB8F-B025506C9165}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
