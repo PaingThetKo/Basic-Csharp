@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElseIfPrize", "ElseIfPrize\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Rule", "Business Rule\Business Rule.csproj", "{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "w3 Classes", "w3 Classes\w3 Classes.csproj", "{DC61D637-FCC8-4D09-904A-761BC4AF91CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC61D637-FCC8-4D09-904A-761BC4AF91CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
