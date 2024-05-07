@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Class", "Math Class\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bool Expression", "Bool Expression\Bool Expression.csproj", "{CB071594-6891-418A-86E2-9995E432DFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElseIfPrize", "ElseIfPrize\ElseIfPrize.csproj", "{A80BBFBF-F108-42EB-A7DC-DB34EA70E76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Rule", "Business Rule\Business Rule.csproj", "{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{CB071594-6891-418A-86E2-9995E432DFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB071594-6891-418A-86E2-9995E432DFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB071594-6891-418A-86E2-9995E432DFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A80BBFBF-F108-42EB-A7DC-DB34EA70E76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A80BBFBF-F108-42EB-A7DC-DB34EA70E76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A80BBFBF-F108-42EB-A7DC-DB34EA70E76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A80BBFBF-F108-42EB-A7DC-DB34EA70E76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CD0CA8-0890-410A-AFC7-752ABE9AB285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

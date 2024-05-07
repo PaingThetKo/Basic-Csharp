@@ -10,6 +10,15 @@ namespace Bool_Expression
     {
         static void Main(string[] args)
         {
+            string message = "The quick fox jumps over the lazy dog";
+            bool result = message.Contains("dog");
+
+            if (result)
+            {
+                Console.WriteLine("What does the fox say?");
+            }
+
+            Console.ReadLine();
         }
     }
 }

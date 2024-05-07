@@ -10,7 +10,7 @@ namespace array
     {
         static void Main(string[] args)
         {
-            int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8 } };
+            /* int[,] numbers = { { 1, 4, 2 }, { 3, 6, 8 } };
 
             for (int i = 0; i < numbers.GetLength(0); i++)
             {
@@ -18,7 +18,18 @@ namespace array
                 {
                     Console.WriteLine(numbers[i, j]);
                 }
+            } */
+
+
+            int[] inventory = { 200, 450, 700, 175, 250 };
+            int sum = 0;
+            foreach (int items in inventory)
+            {
+                sum += items;
             }
+
+            Console.WriteLine($"We have {sum} items in inventory.");
+
 
             Console.ReadLine();
         }
