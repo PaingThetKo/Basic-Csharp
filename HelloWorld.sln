@@ -51,6 +51,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Cast", "Convert Cas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse", "TryParse\TryParse.csproj", "{65770E87-AF5F-4383-84F2-565868B12916}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pallets", "Pallets\Pallets.csproj", "{E9BE44EF-E445-4A94-A613-38AB4872E4C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Format", "String Format\String Format.csproj", "{9A80EB6F-9EAF-4228-952B-2992A7FAEAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpolation", "Interpolation\Interpolation.csproj", "{BD1B0D09-81AC-4893-83AC-FE5BC63380A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Padding", "Padding\Padding.csproj", "{822091A9-FBB8-4B12-A9DA-A21342B845BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Index Of", "Index Of\Index Of.csproj", "{E4AB7690-A1B4-4101-9EF8-B3C0439F2CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubString", "SubString\SubString.csproj", "{DE7E928F-4C76-423D-8736-0F33786B60E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Last Index Of", "Last Index Of\Last Index Of.csproj", "{06FF655E-56DF-4D8D-A498-EAAED9114BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Looping in IndexOf", "Looping in IndexOf\Looping in IndexOf.csproj", "{D80781AA-057F-4007-B8F5-CE5F2BB679DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexOfAny", "IndexOfAny\IndexOfAny.csproj", "{2259C463-E04C-4518-BECB-5EDE895D7184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract Replace Remove", "Extract Replace Remove\Extract Replace Remove.csproj", "{260F6CC4-1E6A-4281-A0AB-23DFBFD3B645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniP Search Animation", "MiniP Search Animation\MiniP Search Animation.csproj", "{C1B502F5-723A-466B-9C35-924EA5D488F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +175,50 @@ Global
 		{65770E87-AF5F-4383-84F2-565868B12916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65770E87-AF5F-4383-84F2-565868B12916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65770E87-AF5F-4383-84F2-565868B12916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BE44EF-E445-4A94-A613-38AB4872E4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BE44EF-E445-4A94-A613-38AB4872E4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BE44EF-E445-4A94-A613-38AB4872E4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BE44EF-E445-4A94-A613-38AB4872E4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A80EB6F-9EAF-4228-952B-2992A7FAEAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A80EB6F-9EAF-4228-952B-2992A7FAEAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A80EB6F-9EAF-4228-952B-2992A7FAEAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A80EB6F-9EAF-4228-952B-2992A7FAEAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD1B0D09-81AC-4893-83AC-FE5BC63380A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1B0D09-81AC-4893-83AC-FE5BC63380A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1B0D09-81AC-4893-83AC-FE5BC63380A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1B0D09-81AC-4893-83AC-FE5BC63380A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822091A9-FBB8-4B12-A9DA-A21342B845BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822091A9-FBB8-4B12-A9DA-A21342B845BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822091A9-FBB8-4B12-A9DA-A21342B845BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822091A9-FBB8-4B12-A9DA-A21342B845BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AB7690-A1B4-4101-9EF8-B3C0439F2CD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AB7690-A1B4-4101-9EF8-B3C0439F2CD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AB7690-A1B4-4101-9EF8-B3C0439F2CD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AB7690-A1B4-4101-9EF8-B3C0439F2CD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7E928F-4C76-423D-8736-0F33786B60E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7E928F-4C76-423D-8736-0F33786B60E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7E928F-4C76-423D-8736-0F33786B60E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7E928F-4C76-423D-8736-0F33786B60E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FF655E-56DF-4D8D-A498-EAAED9114BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FF655E-56DF-4D8D-A498-EAAED9114BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FF655E-56DF-4D8D-A498-EAAED9114BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FF655E-56DF-4D8D-A498-EAAED9114BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80781AA-057F-4007-B8F5-CE5F2BB679DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80781AA-057F-4007-B8F5-CE5F2BB679DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80781AA-057F-4007-B8F5-CE5F2BB679DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80781AA-057F-4007-B8F5-CE5F2BB679DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2259C463-E04C-4518-BECB-5EDE895D7184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2259C463-E04C-4518-BECB-5EDE895D7184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2259C463-E04C-4518-BECB-5EDE895D7184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2259C463-E04C-4518-BECB-5EDE895D7184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260F6CC4-1E6A-4281-A0AB-23DFBFD3B645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260F6CC4-1E6A-4281-A0AB-23DFBFD3B645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260F6CC4-1E6A-4281-A0AB-23DFBFD3B645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260F6CC4-1E6A-4281-A0AB-23DFBFD3B645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B502F5-723A-466B-9C35-924EA5D488F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B502F5-723A-466B-9C35-924EA5D488F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B502F5-723A-466B-9C35-924EA5D488F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B502F5-723A-466B-9C35-924EA5D488F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
